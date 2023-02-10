@@ -1,5 +1,15 @@
 # Pose-Estimation-with-Python-OpenCV
+### Once Again Mediapipe
+
+MediaPipe offers cross-platform, customizable ML solutions by Google for live and streaming media. End-to-End acceleration: Built-in fast ML inference and processing accelerated even on common hardware. Build once, deploy anywhere: Unified solution works across Android, iOS, desktop/cloud, web and IoT.
+
+###### Link to official site of the Framework ------- > https://google.github.io/mediapipe/
+
+
+
 It is used to Determine body Position which can be used in further relevant projects.
+
+
 
 ### Most Popular Pose Estimation Applications
 
